@@ -53,10 +53,10 @@ MLP com 4 camadas densas, sem convoluções:
 ## Visualizações
 
 ### Curvas de Treinamento
-![Curvas de Treinamento](images/curvas_treinamento.png)
+![Curvas de Treinamento](images/nll_loss_e_acuracia.png)
 
 ### Matriz de Confusão
-![Matriz de Confusão](images/matriz_confusao.png)
+![Matriz de Confusão](images/matriz_de_confusao.png)
 
 ### Curva ROC
 ![Curva ROC](images/curva_roc.png)
@@ -137,10 +137,10 @@ Fully connected MLP — 4 dense layers, no convolutions:
 ## Visualizações
 
 ### Curvas de Treinamento
-![Curvas de Treinamento](images/curvas_treinamento.png)
+![Curvas de Treinamento](images/nll_loss_e_acuracia.png)
 
 ### Matriz de Confusão
-![Matriz de Confusão](images/matriz_confusao.png)
+![Matriz de Confusão](images/matriz_de_confusao.png)
 
 ### Curva ROC
 ![Curva ROC](images/curva_roc.png)
