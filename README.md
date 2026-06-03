@@ -50,6 +50,20 @@ MLP com 4 camadas densas, sem convoluções:
 | F1-Score | 77.59% |
 | AUC-ROC | 0.8281 |
 
+## Visualizações
+
+### Curvas de Treinamento
+![Curvas de Treinamento](images/curvas_treinamento.png)
+
+### Matriz de Confusão
+![Matriz de Confusão](images/matriz_confusao.png)
+
+### Curva ROC
+![Curva ROC](images/curva_roc.png)
+
+### Exemplos de Predição
+![Exemplos de Predição](images/exemplos_predicao.png)
+
 ## Principais Aprendizados
 
 - Overfitting é quase inevitável com poucos dados, assim a regularização é essencial
@@ -119,6 +133,20 @@ Fully connected MLP — 4 dense layers, no convolutions:
 | Test Accuracy | 77.78% |
 | F1-Score | 77.59% |
 | AUC-ROC | 0.8281 |
+
+## Visualizações
+
+### Curvas de Treinamento
+![Curvas de Treinamento](images/curvas_treinamento.png)
+
+### Matriz de Confusão
+![Matriz de Confusão](images/matriz_confusao.png)
+
+### Curva ROC
+![Curva ROC](images/curva_roc.png)
+
+### Exemplos de Predição
+![Exemplos de Predição](images/exemplos_predicao.png)
 
 ## Key Learnings
 
