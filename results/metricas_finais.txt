@@ -1,0 +1,8 @@
+Acurácia (Teste): 77.78%
+F1-Score:         77.59%
+AUC-ROC:          0.8281
+
+Modelo: MLP (12.288 → 2.048 → 512 → 128 → 2)
+Épocas: 40
+Otimizador: Adam (lr=1e-3)
+Scheduler: StepLR (step=10, gamma=0.5)
