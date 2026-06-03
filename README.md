@@ -1,9 +1,9 @@
 # homer-bart-classification
-Classificação de imagens com MLP (PyTorch) — sem CNN
+Classificação de imagens com MLP (PyTorch) (sem CNN)
 
 PT
 
-# Classificação Homer vs Bart — Rede Neural MLP
+# Classificação Homer vs Bart - Rede Neural MLP
 
 Classificação binária de imagens dos personagens Homer e Bart Simpson utilizando uma rede neural MLP (Multi-Layer Perceptron) com PyTorch, sem o uso de camadas convolucionais.
 
