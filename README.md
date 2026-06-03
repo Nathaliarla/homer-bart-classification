@@ -50,6 +50,20 @@ MLP com 4 camadas densas, sem convoluções:
 | F1-Score | 77.59% |
 | AUC-ROC | 0.8281 |
 
+## Visualizações
+
+### Curvas de Treinamento
+![Curvas de Treinamento](images/nll_loss_e_acuracia.png)
+
+### Matriz de Confusão
+![Matriz de Confusão](images/matriz_de_confusao.png)
+
+### Curva ROC
+![Curva ROC](images/curva_roc.png)
+
+### Exemplos de Predição
+![Exemplos de Predição](images/exemplos_predicao.png)
+
 ## Principais Aprendizados
 
 - Overfitting é quase inevitável com poucos dados, assim a regularização é essencial
@@ -59,10 +73,17 @@ MLP com 4 camadas densas, sem convoluções:
 
 ## Como Executar
 
-1. Clone o repositório
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Baixe o dataset no Kaggle (link acima) e extraia em `data/`
-4. Abra o notebook em `notebooks/`
+1. Clone o repositório:
+```bash
+   git clone https://github.com/Nathaliarla/homer-bart-classification.git
+```
+2. Instale as dependências:
+```bash
+   pip install -r requirements.txt
+```
+3. Baixe o dataset no [Kaggle](https://www.kaggle.com/datasets/juniorbueno/neural-networks-homer-and-bart-classification) e extraia os arquivos dentro da pasta `data/`
+4. Abra o notebook:
+notebooks/classificação_homer_vs_bart.ipynb
 5. Execute todas as células em ordem
 
 ## Autora
@@ -120,6 +141,20 @@ Fully connected MLP — 4 dense layers, no convolutions:
 | F1-Score | 77.59% |
 | AUC-ROC | 0.8281 |
 
+## Visualizações
+
+### Curvas de Treinamento
+![Curvas de Treinamento](images/nll_loss_e_acuracia.png)
+
+### Matriz de Confusão
+![Matriz de Confusão](images/matriz_de_confusao.png)
+
+### Curva ROC
+![Curva ROC](images/curva_roc.png)
+
+### Exemplos de Predição
+![Exemplos de Predição](images/exemplos_predicao.png)
+
 ## Key Learnings
 
 - Overfitting is nearly inevitable with small datasets — regularization is non-negotiable
@@ -129,10 +164,17 @@ Fully connected MLP — 4 dense layers, no convolutions:
 
 ## How to Run
 
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Download the dataset from Kaggle (link above) and extract to `data/`
-4. Open the notebook inside `notebooks/`
+1. Clone the repository:
+```bash
+   git clone https://github.com/Nathaliarla/homer-bart-classification.git
+```
+2. Install dependencies:
+```bash
+   pip install -r requirements.txt
+```
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/juniorbueno/neural-networks-homer-and-bart-classification) and extract the files into the `data/` folder
+4. Open the notebook:
+notebooks/classificação_homer_vs_bart.ipynb
 5. Run all cells in order
 
 ## Author
