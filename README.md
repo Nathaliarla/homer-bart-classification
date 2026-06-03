@@ -68,7 +68,7 @@ MLP com 4 camadas densas, sem convoluções:
 ## Autora
 
 **Nathália Rayanne Lima Araújo**
-Data Sciense | FP&A
+Data Science | FP&A
 [LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-ara%C3%BAjo-78b1b0262/)
 
 EN
@@ -138,5 +138,5 @@ Fully connected MLP — 4 dense layers, no convolutions:
 ## Author
 
 **Nathália Rayanne Lima Araújo**
-Data Sciense | FP&A
+Data Science | FP&A
 [LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-ara%C3%BAjo-78b1b0262/)
